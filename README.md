@@ -9,7 +9,7 @@
 - Data para entrega do projeto: 18/04/2023 até às 18h.
 
 
-### Fluxão da Aplicação:
+### Fluxo da Aplicação:
 1 - Cliente chega na oficina e apresenta seu QRCode ou sua indentificação(ID). 
 
 2 - O profissional técnico escaneia o código, ou insere a idenfifcação do cliente para prosseguir com o serviço. 
